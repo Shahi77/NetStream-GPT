@@ -8,7 +8,7 @@ const Login = () => {
       <Header />
       <div>
         <img
-          src="https://static.standard.co.uk/2022/11/16/10/netflix-s.jpg?width=1200&auto=webp&quality=75"
+          src="https://miro.medium.com/v2/resize:fit:1400/1*5lyavS59mazOFnb55Z6znQ.png"
           alt="background"
           className="background-img"
         />
