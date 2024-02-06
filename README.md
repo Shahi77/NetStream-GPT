@@ -1,6 +1,9 @@
 # Netflix GPT
 
 - Create React App
+- Configured TailwindCSS
+- Header
+- Login Form
 
 ...
 
@@ -16,3 +19,5 @@
     - Title & description
     - Movies suggestion
       - Movies List
+- NetflixGPT
+  - Search Bar
