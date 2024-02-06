@@ -10,7 +10,7 @@ const Login = () => {
         <img
           src="../assets/backgroundImage.jpg"
           alt="background"
-          className=""
+          className="w-screen h-screen"
         />
       </div>
     </div>
