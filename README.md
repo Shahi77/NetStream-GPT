@@ -1,26 +1,32 @@
-# Netflix GPT
+# Netstream GPT
 
 - Create React App
 - Configured TailwindCSS
-- Header
-- Routing of app
-- Login Form
-- Sign up form
-- Form validation
 
 ...
+
+# Folder Structure
+
+- components
+  - All the components of the app
+- pages
+  - All the main pages of the app
+- utils
+  - general utility functions  
+    ...
 
 # Features
 
 - Login/Sign up
   - Sign In/ Sign Up form
-  - redirect to browse page
-- Browse page (after authentication)
+  - Redirect to browse page
+- Browse page(after authentication)
   - Header
   - Main movie
     - Trailer in background
     - Title & description
     - Movies suggestion
-      - Movies List
-- NetflixGPT
+      - Movies List\*N
+- GPT search
   - Search Bar
+  - Movie
